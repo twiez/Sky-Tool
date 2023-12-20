@@ -4,6 +4,6 @@ This tool is designed to reveal the original password of encrypted passwords usi
 2- Change the wordlist's direction on source code. 
 3- Open CMD (terminal for linux) 
 4- Go to source code direction (same with cd command both linux and windows) 
-5- Write "python3 (also it can be python or python2 for your computer) QrNXHashTool.py" 
+5- Write "python3 (also it can be python or python2 for your computer) Sky-Tool.py" 
 6- You will see the result.
 ```
