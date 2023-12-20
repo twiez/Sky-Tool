@@ -8,4 +8,4 @@ This tool is designed to reveal the original password of encrypted passwords usi
 6- You will see the result.
 ```
 
-[url=https://hizliresim.com/kpw2ws0][img]https://i.hizliresim.com/kpw2ws0.jpg[/img][/url]
+[https://hizliresim.com/kpw2ws0 görsel]
